@@ -9,13 +9,10 @@ LCD Library: Ucglib.h -HWSPI
 MEMORY: EEProm I2C 24C02 - 2kB RAM, sau mai mare
 Based on 'JAN2KD 2016.10.19 Multi Band DDS VFO Ver3.1 and JA2GQP-2020
 
-Features of this controller:
-6 frequency bands 80,40,20,17,15,10m........[Key1] short
-
-VFO A<->B switch........................................[Key1] long
-
-BFO adjustment on each mode at startup.............[Key2] held down
-
+Features of this controller:<br>
+6 frequency bands 80,40,20,17,15,10m........[Key1] short<br>
+VFO A<->B switch........................................[Key1] long<br>
+BFO adjustment on each mode at startup.............[Key2] held down<br>
 LSB, USB and CW working modes .......................[Key2] short
 AGC ON/OFF(SLOW/FAST)................................[Key2] lung
 AMPLI +20dB ................................................ [Key3] short
