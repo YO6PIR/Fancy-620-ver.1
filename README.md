@@ -13,20 +13,20 @@ Features of this controller:<br>
 6 frequency bands 80,40,20,17,15,10m........[Key1] short<br>
 VFO A<->B switch........................................[Key1] long<br>
 BFO adjustment on each mode at startup.............[Key2] held down<br>
-LSB, USB and CW working modes .......................[Key2] short
-AGC ON/OFF(SLOW/FAST)................................[Key2] lung
-AMPLI +20dB ................................................ [Key3] short
-ATT ON/OFF................................................. [Key3] lung
-RIT with graduated scale ON/OFF..........................[Key4]short
-Linear scale on the center of the screen ON/OFF.........[Key4]long
-LOCK KNOB ....................................................[ENC] long
-STEP x10, x100, x1K......................................[ENC] short
-XTALL oscillator adjustment at startup with ............[ENC] held down
-BCD code band switching output with CD4028 decoder
+LSB, USB and CW working modes .......................[Key2] short<br>
+AGC ON/OFF(SLOW/FAST)................................[Key2] lung<br>
+AMPLI +20dB ................................................ [Key3] short<br>
+ATT ON/OFF................................................. [Key3] lung<br>
+RIT with graduated scale ON/OFF..........................[Key4]short<br>
+Linear scale on the center of the screen ON/OFF.........[Key4]long<br>
+LOCK KNOB ....................................................[ENC] long<br>
+STEP x10, x100, x1K......................................[ENC] short<br>
+XTALL oscillator adjustment at startup with ............[ENC] held down<br>
+BCD code band switching output with CD4028 decoder<br>
 When changing step, rounds the VFO by the set STEP value.
-Automatically saves current data in EEprom, 2s after frequency or band change
-Analog bargraph on S-meter and POWER-meter
-Communication UI messages at the bottom of the screen
-Supply voltage monitored on screen Max=19Vcc
+Automatically saves current data in EEprom, 2s after frequency or band change<br>
+Analog bargraph on S-meter and POWER-meter<br>
+Communication UI messages at the bottom of the screen<br>
+Supply voltage monitored on screen Max=19Vcc<br>
 Final radiator temperature measurement with external 10K Thermistor
 On CW transmission, a 700Hz tone is generated + FREQ_VFO
