@@ -28,5 +28,8 @@ Automatically saves current data in EEprom, 2s after frequency or band change<br
 Analog bargraph on S-meter and POWER-meter<br>
 Communication UI messages at the bottom of the screen<br>
 Supply voltage monitored on screen Max=19Vcc<br>
-Final radiator temperature measurement with external 10K Thermistor
-On CW transmission, a 700Hz tone is generated + FREQ_VFO
+Final radiator temperature measurement with external 10K Thermistor<br>
+On CW transmission, a 700Hz tone is generated + FREQ_VFO<br>
+
+<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/0f0424d8-04b4-4650-8210-250d1d493dee" />
+
