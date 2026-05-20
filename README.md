@@ -11,8 +11,11 @@ Based on 'JAN2KD 2016.10.19 Multi Band DDS VFO Ver3.1 and JA2GQP-2020
 
 Features of this controller:
 6 frequency bands 80,40,20,17,15,10m........[Key1] short
+
 VFO A<->B switch........................................[Key1] long
+
 BFO adjustment on each mode at startup.............[Key2] held down
+
 LSB, USB and CW working modes .......................[Key2] short
 AGC ON/OFF(SLOW/FAST)................................[Key2] lung
 AMPLI +20dB ................................................ [Key3] short
